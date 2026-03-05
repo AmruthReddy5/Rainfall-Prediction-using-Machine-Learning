@@ -1,6 +1,3 @@
-Here is a **clean, professional README.md** you can directly upload to **GitHub**.
-It is written in a **standard GitHub project format** that recruiters expect.
-
 # Rainfall Prediction using Machine Learning
 
 ## Overview
